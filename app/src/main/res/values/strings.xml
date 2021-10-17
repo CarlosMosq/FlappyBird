@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Flappy Bird</string>
+    <string name="bird">Bird</string>
+    <string name="enemy1">Evil Bee</string>
+    <string name="enemy2">Blue Horn</string>
+    <string name="enemy3">UFO</string>
+    <string name="coin">Coin</string>
+    <string name="startGame">Start Game</string>
+    <string name="info">Can you help the innocent bird collect 500 points and reach his nest?</string>
+    <string name="description">Animated Character</string>
+    <string name="zero">0</string>
+    <string name="tapToPlay">Tap To Play Game</string>
+    <string name="winningPhrase">Congratulations! You helped the bird fly safely to his nest</string>
+    <string name="losingPhrase">Sorry! The enemies did not let you pass!</string>
+    <string name="score">Your Score:</string>
+    <string name="playAgain">Play Again</string>
+</resources>
